@@ -1,6 +1,6 @@
 {
-    "name": "kenjis/codeigniter-cli",
-    "description": "A command-line tool for CodeIgniter 3.0",
+    "name": "vonvick/codeigniter-cli",
+    "description": "A command-line tool for CodeIgniter 3.0 forked from kenjis/codeigniter-cli",
     "keywords": [
         "cli",
         "command",
